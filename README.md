@@ -40,7 +40,7 @@ Use `create-react-app` to build the portfolio:
 
 
 ## Animations 
-![Portfolio GIF](images/book-search-home-signup.gif)
+![Portfolio GIF](images/reactPortfolio.gif)
 
 
 ## License
